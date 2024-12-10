@@ -1,0 +1,6 @@
+C:\Users\vival\source\repos\OOPLAB7.4\OOPLAB7.4\bin\Debug\OOPLAB7.4.exe.config
+C:\Users\vival\source\repos\OOPLAB7.4\OOPLAB7.4\bin\Debug\OOPLAB7.4.exe
+C:\Users\vival\source\repos\OOPLAB7.4\OOPLAB7.4\bin\Debug\OOPLAB7.4.pdb
+C:\Users\vival\source\repos\OOPLAB7.4\OOPLAB7.4\obj\Debug\OOPLAB7.4.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\OOPLAB7.4\OOPLAB7.4\obj\Debug\OOPLAB7.4.exe
+C:\Users\vival\source\repos\OOPLAB7.4\OOPLAB7.4\obj\Debug\OOPLAB7.4.pdb
