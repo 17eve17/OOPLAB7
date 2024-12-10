@@ -1,0 +1,6 @@
+C:\Users\vival\source\repos\OOP7.1\OOP7.1\bin\Debug\OOP7.1.exe.config
+C:\Users\vival\source\repos\OOP7.1\OOP7.1\bin\Debug\OOP7.1.exe
+C:\Users\vival\source\repos\OOP7.1\OOP7.1\bin\Debug\OOP7.1.pdb
+C:\Users\vival\source\repos\OOP7.1\OOP7.1\obj\Debug\OOP7.1.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\OOP7.1\OOP7.1\obj\Debug\OOP7.1.exe
+C:\Users\vival\source\repos\OOP7.1\OOP7.1\obj\Debug\OOP7.1.pdb
